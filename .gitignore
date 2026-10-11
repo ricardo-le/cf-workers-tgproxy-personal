@@ -1,0 +1,14 @@
+node_modules/
+.wrangler/
+dist/
+coverage/
+.dev.vars
+.dev.vars.*
+.env
+.env.*
+*.log
+*.pem
+*.key
+*.p12
+*.pfx
+.DS_Store

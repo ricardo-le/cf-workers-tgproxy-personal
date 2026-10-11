@@ -1,0 +1,25 @@
+{
+  "name": "tgproxy-fixed",
+  "version": "1.0.1",
+  "description": "Personal Telegram WEB proxy with coordinated sessions",
+  "main": "telegram_webproxy.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node --test tests/regression.cjs && node --test tests/runtime.mjs",
+    "build": "wrangler deploy --dry-run",
+    "deploy": "wrangler deploy",
+    "diagnose": "node scripts/diagnose-tgproxy.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL-3.0-only",
+  "devDependencies": {
+    "miniflare": "^5.20261006.1-alpha",
+    "prettier": "^3.9.10",
+    "wrangler": "^4.149.0"
+  },
+  "type": "module",
+  "private": true
+}

@@ -1,0 +1,18 @@
+{
+  ".gitattributes": "db1994f6eb18e3796b2db0f045be6fc25dc0f36268a041bc8b697d7c2ed547d4",
+  ".gitignore": "d49052d71e1d60dca51aaf986af908a5668cec72180e15de2a655118f6fb21b8",
+  "CHANGELOG.md": "46412f94c7dc6524cfe5b2b9a7e949c6c63b576836569a170b7f14d79306237b",
+  "LICENSE": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+  "README.md": "3bdf4698e06578f8c98f325d410616bf0b4de0e7373f02a45ecff48fe6650165",
+  "docs/deployment.md": "9b66feb3cad78d18305ff3168a6548a01a433cff8e48656bccce3484257b35fa",
+  "docs/troubleshooting.md": "f3f29235e1ffd6b2df1db68fd719c6fc0c6a28b6970f7a70223993d8f6df05a4",
+  "docs/upstream-audit.md": "5debd502aaade4521daf9e3e6a80af0181857dfb1f48bd73bd2efde0e62a083f",
+  "docs/validation.md": "8cda17b73e2e42ec78afb504d9b1cd9b76652f53275e91d25c29868d8b76f70f",
+  "package-lock.json": "37f1a43323c5e02e6544b2478762bb3d3fa31a630fce343f027494935f1a0978",
+  "package.json": "a65e0f24202b490cc89b41e54b6148f4c0a2254844ebe7fda8a45fd09ce5ad37",
+  "scripts/diagnose-tgproxy.mjs": "bcc9c36751d4c74067d8dcbd0f3d7340d8d5b43a3522ae14d5274acaf7472460",
+  "telegram_webproxy.js": "b269bbf3277a17f5eec7dc49a9ea42741c671a477c617e44b8d766837a0b372d",
+  "tests/regression.cjs": "f1113fe70aeff87e2ab67f411a2a2e0417f388621b70441af759e3131f33cacb",
+  "tests/runtime.mjs": "ab31e554b7f9faf11db29c6ca6a3bec8a40301f802e9bf70c2f8503ad84d29fb",
+  "wrangler.jsonc": "d4c32e7f5267575f3995084d6c0d0e6a7026e3d5061a7f9fbe96e3e3efd9fb16"
+}
