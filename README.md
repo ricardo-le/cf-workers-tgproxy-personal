@@ -14,7 +14,7 @@
 
 ## 快速部署
 
-准备 Node.js 22 或更新版本，以及 Cloudflare 账号。先用有权访问该私有仓库的 GitHub 账号克隆项目：
+准备 Node.js 22 或更新版本，以及 Cloudflare 账号。先用 GitHub 账号克隆项目：
 
 ```bash
 git clone https://github.com/ricardo-le/cf-workers-tgproxy-personal.git
